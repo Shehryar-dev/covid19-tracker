@@ -1,6 +1,6 @@
 # COVID-19 Tracker App
 
-This is a Flutter-based COVID-19 tracker app that uses a REST API to provide real-time updates on global and country-specific COVID-19 statistics.
+This Flutter-based COVID-19 tracker app uses a REST API to provide real-time updates on global and country-specific COVID-19 statistics.
 
 ![App Screenshot](assets/screenshots/app.png)
 
@@ -15,7 +15,7 @@ This is a Flutter-based COVID-19 tracker app that uses a REST API to provide rea
 
 - **Splash Screen**: Displays an introduction screen before loading the main app.
 - **World COVID Stats**: A screen that shows the global COVID-19 statistics including total cases, recoveries, and deaths.
-- **Country List**: A screen displaying a list of all countries, allowing users to select one and view its specific stats.
+- **Country List**: This is a screen displaying a list of all countries, allowing users to select one and view its specific stats.
 - **Country Stats**: Detailed COVID-19 stats for the selected country.
 
 ## Packages Used
@@ -38,7 +38,7 @@ To run this app, follow these steps:
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/your-username/covid19-tracker.git
+    git clone https://github.com/Shehryar-dev/covid19-tracker.git
     ```
 
 2. Navigate to the project directory:
